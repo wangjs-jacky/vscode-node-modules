@@ -2,7 +2,7 @@
   "name": "node-modules",
   "displayName": "node_modules",
   "description": "search node_modules package | click package.json package name jumps to the corresponding node_modules",
-  "publisher": "zyrong",
+  "publisher": "jackywjs",
   "keywords": [
     "search",
     "node_modules",
