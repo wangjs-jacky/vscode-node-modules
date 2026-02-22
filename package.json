@@ -1,7 +1,7 @@
 {
-  "name": "node-modules",
-  "displayName": "node_modules",
-  "description": "search node_modules package | click package.json package name jumps to the corresponding node_modules",
+  "name": "node-modules-enhanced",
+  "displayName": "node-modules-enhanced",
+  "description": "search node_modules package | click package.json package name jumps to the corresponding node_modules | enhanced with multi-level support",
   "publisher": "jackywjs",
   "keywords": [
     "search",
@@ -10,7 +10,7 @@
     "goto",
     "jump"
   ],
-  "version": "1.6.1",
+  "version": "1.7.0",
   "engines": {
     "vscode": "^1.67.0"
   },

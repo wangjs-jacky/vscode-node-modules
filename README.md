@@ -1,7 +1,7 @@
 Language: [English](./README.md) | [中文](./README_CN.md)
 <br/><br/>
 
-# node-modules
+# node-modules-enhanced
 
 Forked from [zyrong/vscode-node-modules](https://github.com/zyrong/vscode-node-modules) with enhanced support for multi-level node_modules directory structure.
 
